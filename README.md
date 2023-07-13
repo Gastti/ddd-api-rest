@@ -1,7 +1,7 @@
 # Api Rest
 This rest api was developed to implement the knowledge acquired in clean architecture using the DDD (Domain-Driven Design) methodology and design approach.
 
-### How to install
+## How to install
 **Important:** You must have Node v18.16.1 installed and have a mongodb database.
 1. Clone the repository using the following command:
 ```git clone https://github.com/Gastti/ddd-api-rest.git```
