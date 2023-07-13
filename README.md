@@ -7,7 +7,7 @@ This rest api was developed to implement the knowledge acquired in clean archite
 ```git clone https://github.com/Gastti/ddd-api-rest.git```
 3. Install dependencies and packages:
 ```npm install```
-4. Create an ".env" file and set the environment variables provided in the .env.example file.
+4. Create an <u>.env</u> file and set the environment variables provided in the <u>.env.example</u> file.
 ```
 PORT= 
 DB_URI= **Insert mongodb connection URI here**
